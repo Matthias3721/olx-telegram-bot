@@ -88,7 +88,9 @@ requests>=2.31
 python-telegram-bot>=20,<22
 nest_asyncio>=1.6
 
-Możliwości rozwoju
+---
+
+## Możliwości rozwoju
 Dodanie integracji z innymi kategoriami OLX (np. samochody, laptopy)
 
 Zmiana słowa kluczowego z „iphone” na dowolny produkt
