@@ -1,0 +1,27 @@
+# Python cache i build
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+venv38/
+
+# Konfiguracje edytorów
+.vscode/
+.idea/
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Env / sekrety
+.env
+*.env
+.env.*
+.envrc
+
+# Logi
+*.log
